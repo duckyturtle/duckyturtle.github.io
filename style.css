@@ -5,7 +5,12 @@ body {
   /*background-repeat: no-repeat;*/
   background-position: center;
   color: white ;
-  font-family:sans-serif;;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2
+{
+  font-family: 'Amatic SC', cursive;
 }
 
 p {
